@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <houses>
-  <house name="Unnamed House #1" houseid="1" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="49"/>
-  <house name="Unnamed House #2" houseid="2" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="49"/>
-  <house name="Unnamed House #3" houseid="3" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="49"/>
-  <house name="Unnamed House #4" houseid="4" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="49"/>
-  <house name="Unnamed House #5" houseid="5" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="49"/>
-  <house name="Unnamed House #6" houseid="6" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #1" houseid="1" entryx="4884" entryy="5049" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Unnamed House #2" houseid="2" entryx="4889" entryy="5065" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Unnamed House #3" houseid="3" entryx="4900" entryy="5065" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Unnamed House #4" houseid="4" entryx="4877" entryy="5066" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Unnamed House #5" houseid="5" entryx="4890" entryy="5066" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Unnamed House #6" houseid="6" entryx="4882" entryy="5027" entryz="7" rent="0" townid="1" size="54"/>
   <house name="Ol' Bandit's Lair" houseid="7" entryx="5050" entryy="4889" entryz="7" rent="0" guildhall="1" townid="2" size="351"/>
+  <house name="Portviewn Hall" houseid="8" entryx="0" entryy="0" entryz="0" rent="0" guildhall="1" townid="1" size="372"/>
 </houses>
