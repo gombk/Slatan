@@ -12,6 +12,9 @@
     <monster name="Poison spider" x="6" y="0" z="7" spawntime="60"/>
     <monster name="Deer" x="4" y="2" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="4848" centery="5040" centerz="7" radius="2">
+    <npc name="Hirte" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="5047" centery="4884" centerz="8" radius="5">
     <monster name="spider" x="-1" y="-3" z="8" spawntime="60"/>
     <monster name="spider" x="-2" y="-2" z="8" spawntime="60"/>

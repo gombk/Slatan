@@ -7,5 +7,5 @@
   <house name="Unnamed House #5" houseid="5" entryx="4890" entryy="5066" entryz="7" rent="0" townid="1" size="49"/>
   <house name="Unnamed House #6" houseid="6" entryx="4882" entryy="5027" entryz="7" rent="0" townid="1" size="54"/>
   <house name="Ol' Bandit's Lair" houseid="7" entryx="5050" entryy="4889" entryz="7" rent="0" guildhall="1" townid="2" size="351"/>
-  <house name="Portviewn Hall" houseid="8" entryx="0" entryy="0" entryz="0" rent="0" guildhall="1" townid="1" size="372"/>
+  <house name="Portviewn Hall" houseid="8" entryx="4915" entryy="5088" entryz="7" rent="0" guildhall="1" townid="1" size="372"/>
 </houses>
