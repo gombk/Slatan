@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spawns>
-  <spawn centerx="5228" centery="4930" centerz="6" radius="5">
-    <monster name="Dog" x="1" y="-2" z="6" spawntime="60"/>
-    <monster name="Cat" x="-2" y="-1" z="6" spawntime="60"/>
-    <monster name="Cat" x="-1" y="-1" z="6" spawntime="1024"/>
-    <monster name="Cat" x="0" y="-1" z="6" spawntime="1024"/>
-    <monster name="Dog" x="1" y="0" z="6" spawntime="60"/>
-    <monster name="Dog" x="2" y="0" z="6" spawntime="60"/>
-    <monster name="Cat" x="-2" y="1" z="6" spawntime="60"/>
-    <monster name="Cat" x="-1" y="1" z="6" spawntime="1024"/>
-    <monster name="Cat" x="0" y="1" z="6" spawntime="1024"/>
-  </spawn>
+  <spawn centerx="5135" centery="4882" centerz="6" radius="1"/>
+  <spawn centerx="5228" centery="4930" centerz="6" radius="5"/>
   <spawn centerx="4883" centery="5104" centerz="6" radius="1"/>
+  <spawn centerx="5137" centery="4883" centerz="7" radius="1">
+    <monster name="Blue Djinn" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="5038" centery="4907" centerz="7" radius="18">
     <monster name="Deer" x="-3" y="-16" z="7" spawntime="60"/>
     <monster name="Wolf" x="-5" y="-15" z="7" spawntime="60"/>
@@ -21,49 +15,19 @@
     <monster name="Wolf" x="14" y="-4" z="7" spawntime="60"/>
     <monster name="Deer" x="-11" y="-3" z="7" spawntime="60"/>
     <monster name="Wolf" x="16" y="-3" z="7" spawntime="60"/>
-    <monster name="Poison spider" x="6" y="0" z="7" spawntime="60"/>
+    <monster name="Poison spider" x="7" y="0" z="7" spawntime="60"/>
     <monster name="Deer" x="4" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="5225" centery="4913" centerz="7" radius="30">
     <monster name="Deer" x="-26" y="-1" z="7" spawntime="60"/>
     <monster name="Deer" x="-22" y="1" z="7" spawntime="60"/>
     <monster name="Deer" x="-8" y="1" z="7" spawntime="60"/>
-    <monster name="Deer" x="-7" y="1" z="7" spawntime="60"/>
-    <monster name="Deer" x="-26" y="3" z="7" spawntime="60"/>
     <monster name="Deer" x="-12" y="3" z="7" spawntime="60"/>
     <monster name="Deer" x="-6" y="3" z="7" spawntime="60"/>
-    <monster name="Deer" x="-12" y="4" z="7" spawntime="60"/>
-    <monster name="Deer" x="-10" y="4" z="7" spawntime="60"/>
     <monster name="Wolf" x="-3" y="8" z="7" spawntime="60"/>
     <monster name="Wolf" x="-2" y="8" z="7" spawntime="60"/>
-    <monster name="Cave Rat" x="12" y="10" z="7" spawntime="60"/>
-    <monster name="Cave Rat" x="4" y="11" z="7" spawntime="60"/>
-    <monster name="Black Sheep" x="4" y="12" z="7" spawntime="60"/>
-    <monster name="Black Sheep" x="5" y="12" z="7" spawntime="60"/>
-    <monster name="Tiger" x="10" y="13" z="7" spawntime="60"/>
-    <monster name="Rabbit" x="11" y="13" z="7" spawntime="60"/>
-    <monster name="Rabbit" x="12" y="13" z="7" spawntime="60"/>
-    <monster name="Rabbit" x="11" y="14" z="7" spawntime="60"/>
-    <monster name="Rabbit" x="12" y="14" z="7" spawntime="60"/>
-    <monster name="Chicken" x="2" y="15" z="7" spawntime="60"/>
-    <monster name="Chicken" x="3" y="15" z="7" spawntime="60"/>
     <monster name="Azure Frog" x="7" y="15" z="7" spawntime="60"/>
-    <monster name="Coral Frog" x="8" y="15" z="7" spawntime="60"/>
-    <monster name="Crimson Frog" x="9" y="15" z="7" spawntime="60"/>
-    <monster name="Rabbit" x="11" y="15" z="7" spawntime="60"/>
-    <monster name="Rabbit" x="12" y="15" z="7" spawntime="60"/>
-    <monster name="Panda" x="4" y="16" z="7" spawntime="60"/>
-    <monster name="Panda" x="3" y="17" z="7" spawntime="60"/>
-    <monster name="Cat" x="5" y="17" z="7" spawntime="60"/>
-    <monster name="Cat" x="4" y="18" z="7" spawntime="60"/>
-    <monster name="Bear" x="11" y="18" z="7" spawntime="60"/>
-    <monster name="Pig" x="1" y="20" z="7" spawntime="60"/>
-    <monster name="Pig" x="2" y="20" z="7" spawntime="1024"/>
-    <monster name="Pig" x="3" y="20" z="7" spawntime="1024"/>
     <monster name="Snake" x="9" y="20" z="7" spawntime="60"/>
-    <monster name="Tortoise" x="10" y="21" z="7" spawntime="60"/>
-    <monster name="Tortoise" x="12" y="21" z="7" spawntime="60"/>
-    <monster name="Tortoise" x="9" y="22" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="5228" centery="4930" centerz="7" radius="5"/>
   <spawn centerx="4848" centery="5040" centerz="7" radius="2">
