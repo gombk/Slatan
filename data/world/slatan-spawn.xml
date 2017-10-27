@@ -30,6 +30,34 @@
     <monster name="Snake" x="9" y="20" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="5228" centery="4930" centerz="7" radius="5"/>
+  <spawn centerx="5090" centery="4973" centerz="7" radius="2">
+    <monster name="Amazon" x="1" y="-2" z="7" spawntime="60"/>
+    <monster name="Amazon" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Amazon" x="2" y="2" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="5092" centery="4974" centerz="7" radius="2">
+    <monster name="Amazon" x="1" y="0" z="7" spawntime="60"/>
+    <monster name="Amazon" x="-2" y="2" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="5090" centery="4975" centerz="7" radius="2"/>
+  <spawn centerx="5090" centery="4976" centerz="7" radius="2">
+    <monster name="Amazon" x="1" y="2" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="5092" centery="4976" centerz="7" radius="8">
+    <monster name="Amazon" x="-5" y="-4" z="7" spawntime="60"/>
+    <monster name="Amazon" x="5" y="-4" z="7" spawntime="60"/>
+    <monster name="Amazon" x="-6" y="-1" z="7" spawntime="60"/>
+    <monster name="Amazon" x="7" y="1" z="7" spawntime="60"/>
+    <monster name="Amazon" x="3" y="2" z="7" spawntime="60"/>
+    <monster name="Amazon" x="5" y="7" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="5093" centery="4976" centerz="7" radius="2"/>
+  <spawn centerx="5092" centery="4977" centerz="7" radius="8"/>
+  <spawn centerx="5093" centery="4977" centerz="7" radius="8"/>
+  <spawn centerx="5091" centery="4978" centerz="7" radius="8"/>
+  <spawn centerx="5092" centery="4978" centerz="7" radius="8"/>
+  <spawn centerx="5093" centery="4978" centerz="7" radius="8"/>
+  <spawn centerx="5092" centery="4979" centerz="7" radius="8"/>
   <spawn centerx="4848" centery="5040" centerz="7" radius="2">
     <npc name="Hirte" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
