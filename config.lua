@@ -86,7 +86,7 @@
 
 	-- Connection config
 	worldId = 0
-	ip = "127.0.0.1"
+	ip = "25.6.252.167"
 	loginPort = 7171
 	gamePort = 7172
 	loginTries = 10
