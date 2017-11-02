@@ -98,6 +98,24 @@
     <monster name="Valkyrie" x="2" y="3" z="7" spawntime="60"/>
     <monster name="Amazon" x="5" y="5" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="5212" centery="4994" centerz="7" radius="1">
+    <monster name="Hydra" x="-1" y="0" z="7" spawntime="45"/>
+  </spawn>
+  <spawn centerx="5210" centery="4995" centerz="7" radius="1"/>
+  <spawn centerx="5214" centery="4995" centerz="7" radius="1">
+    <monster name="Hydra" x="-1" y="1" z="7" spawntime="45"/>
+  </spawn>
+  <spawn centerx="5233" centery="4999" centerz="7" radius="1">
+    <monster name="Hydra" x="0" y="-1" z="7" spawntime="45"/>
+    <monster name="Hydra" x="1" y="1" z="7" spawntime="45"/>
+  </spawn>
+  <spawn centerx="5163" centery="5026" centerz="7" radius="5">
+    <monster name="Black Knight" x="-3" y="-4" z="7" spawntime="45"/>
+    <monster name="Black Knight" x="1" y="-4" z="7" spawntime="45"/>
+    <monster name="Black Knight" x="0" y="0" z="7" spawntime="45"/>
+    <monster name="Black Knight" x="4" y="0" z="7" spawntime="45"/>
+    <monster name="Black Knight" x="-4" y="3" z="7" spawntime="45"/>
+  </spawn>
   <spawn centerx="5090" centery="5035" centerz="7" radius="5">
     <monster name="Poison spider" x="-1" y="-3" z="7" spawntime="60"/>
     <monster name="spider" x="4" y="4" z="7" spawntime="60"/>
